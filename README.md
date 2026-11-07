@@ -203,8 +203,6 @@ Tools: [KickAssembler 5.25](https://theweb.dk/KickAssembler/Main.html#frontpage)
 
     build.bat               builds artifacts\ (lite40_1.bin, lite40_2.bin, lite40_3.bin and lite40_5.bin, and the two demos, lite40_output_demo.prg and lite40_input_demo.prg)
 
-The conversion plan and every design decision are in `DISPLAY_ONLY_PLAN.md`; the coding conventions are in `6502_CODING_STANDARDS.md`, in the folder above this one.
-
 ## Release history
 
 ### Release 1.0 (6th November 2026)
